@@ -1,0 +1,23 @@
+1️⃣ Histogram – Distribusyon ng Kita ng Sambahayan
+Ano ang ipinapakita: Karamihan sa mga sambahayan ay mababa ang kita, at iilan lang ang sobrang taas.
+
+Kahulugan: Hindi pantay ang distribusyon, kaya mas angkop gumamit ng non-linear na modelo sa pagsusuri.
+
+2️⃣ Heatmap ng Korelasyon – Nangungunang Gastusin
+Ano ang ipinapakita: Malakas ang ugnayan ng kita sa gastusin sa:
+
+Komunikasyon (0.71)
+
+Pabahay at Tubig (0.68)
+
+Iba’t ibang Kalakal at Serbisyo (0.67)
+
+Kahulugan: Habang tumataas ang kita, tumataas din ang gastusin sa mga kategoryang ito. Mahalaga silang predictor ng kita.
+
+3️⃣ Scatter Plot – Komunikasyon vs. Kita
+Ano ang ipinapakita: May diretsong relasyon — mas mataas ang gastos sa komunikasyon, mas mataas din ang kita.
+
+Kahulugan: Ang komunikasyon ay malakas na tagapagpahiwatig ng kabuuang kita.
+
+4️⃣ Pie Chart – Kasarian ng Pinuno ng Sambahayan
+Ano ang ipinapakita: 78.2% ng sambahayan ay pinamumunuan ng lalaki, 21.8
